@@ -1,0 +1,10 @@
+E:\SlbHomework\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\SlbHomework\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\SlbHomework\ClassLibrary1\ClassLibrary1\obj\Debug\AccountLibrary.csprojResolveAssemblyReference.cache
+E:\SlbHomework\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\SlbHomework\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\SlbHomework\CSharpPractice1\ClassLibrary1\obj\Debug\AccountLibrary.csprojResolveAssemblyReference.cache
+E:\SlbHomework\CSharpPractice1\ClassLibrary1\bin\Debug\AccountLibrary.dll
+E:\SlbHomework\CSharpPractice1\ClassLibrary1\bin\Debug\AccountLibrary.pdb
+E:\SlbHomework\CSharpPractice1\ClassLibrary1\obj\Debug\AccountLibrary.dll
+E:\SlbHomework\CSharpPractice1\ClassLibrary1\obj\Debug\AccountLibrary.pdb

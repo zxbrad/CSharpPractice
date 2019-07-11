@@ -1,0 +1,16 @@
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\SlbHomework\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\bin\Debug\AccountLibrary.dll
+E:\SlbHomework\CSharpPractice1\ConsoleApplication1\bin\Debug\AccountLibrary.pdb

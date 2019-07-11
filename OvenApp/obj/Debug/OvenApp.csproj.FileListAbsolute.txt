@@ -1,0 +1,6 @@
+E:\SlbHomework\CSharpPractice1\OvenApp\bin\Debug\OvenApp.exe.config
+E:\SlbHomework\CSharpPractice1\OvenApp\bin\Debug\OvenApp.exe
+E:\SlbHomework\CSharpPractice1\OvenApp\bin\Debug\OvenApp.pdb
+E:\SlbHomework\CSharpPractice1\OvenApp\obj\Debug\OvenApp.csprojResolveAssemblyReference.cache
+E:\SlbHomework\CSharpPractice1\OvenApp\obj\Debug\OvenApp.exe
+E:\SlbHomework\CSharpPractice1\OvenApp\obj\Debug\OvenApp.pdb
